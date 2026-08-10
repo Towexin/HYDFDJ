@@ -1,0 +1,13 @@
+[CustomSkin]
+AllianceLumber=UI\Glues\ScoreScreen\scorescreen-player-bloodelf.blp
+AllianceLumberDisabled=UI\MiniMap\MinimapIcon\MinimapIconStartLoc.blp
+CommandAttack=ReplaceableTextures\CommandButtons\jue1.blp
+CommandHoldPosition=ReplaceableTextures\CommandButtons\dui1.blp
+CommandMove=ReplaceableTextures\CommandButtons\dian1.blp
+CommandStop=ReplaceableTextures\CommandButtons\feng1.blp
+LumberIcon=UI\Glues\ScoreScreen\scorescreen-player-bloodelf.blp
+[Errors]
+Cooldown=忍术尚未恢复。
+Manamaxed=查克拉值已满。
+Nomana=查克拉值不够。
+UnitManaMaxed=查克拉值已满。
